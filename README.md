@@ -1,5 +1,5 @@
 # UE5-ThirdPersonDEMO
-自用
+<b>纯蓝图项目</b>, 自用
 <p>演示视频参见如下连接：</p>
 <a href="https://www.bilibili.com/video/BV18h4y117hR"><p>Version 1 [Bilibili连接]<b>动态血条，低血量提示(溅血UI)，简易数组背包</b></p></a>
 <p>背包是基于读取数组内容(为方便使用GameInstance代替GameSave存储玩家数据)，在初始化背包后在对应的格子内塞入物品。</p>
